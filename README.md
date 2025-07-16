@@ -326,7 +326,3 @@ No more conversion errors:
 - Real-time performance monitoring and optimization
 
 ---
-
-**Built with ❤️ and AI for the data science community**
-
-*"Making advanced data science accessible through intelligent automation and natural language interaction"*
