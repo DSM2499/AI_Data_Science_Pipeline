@@ -206,24 +206,6 @@ Data_Science_Agent/
 - Sandboxed code execution (recommended for production)
 - Audit trails for all user interactions
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests and documentation
-5. Submit a pull request
-
-### Development Guidelines
-- Follow existing code style and patterns
-- Add comprehensive docstrings
-- Include unit tests for new features
-- Update documentation as needed
-
-## 📝 License
-
-MIT License - see LICENSE file for details.
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
